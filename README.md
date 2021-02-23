@@ -1,2 +1,1 @@
-# glitchmcpe.github.io
-website
+# glitchcraft1.github.io
